@@ -6,3 +6,4 @@ segment-anything
 opencv-python
 numpy
 python-multipart
+gdown
